@@ -352,7 +352,7 @@ site_component {
       }
     }
     header_background {
-      resource_id: "1LIASwKBky2GqnBzwmb3_sQNEO-upbxu8JeFZkjhVi-_TLsRy9Q"
+      resource_id: "1BKbM87Mc3WRAoSpL8Cr83ie0BM_65VjObUptQ-kd8S_eXbTu"
       image_rotation: 0
       overlay_color_style: "LIGHT"
       overlay_color_opacity: 0.2
@@ -609,14 +609,14 @@ site_component {
       }
     }
     header_background {
-      resource_id: "1-eHvqS95-0Bf2-g4I01d3LE-bwNv0cApTheuw0yicKuWpK8YbA"
+      resource_id: "1PCVUmqRrPtxDaBKLsUOUj5XjvsRe8j9zBnBgEUL8UGVs-gnxfw"
       image_rotation: 0
       overlay_color_style: "LIGHT"
       overlay_color_opacity: 0.0
       anchor: "center center"
     }
     unsafe_logo_image {
-      resource_id: "1P1ywkJy2eqW2hVqHfXMlppYTZ9O1N4pstdqrEYdMaUdB7xZL4Q"
+      resource_id: "1XgT_OEnnZK2osxp1yGYACeG80tioaESl4AG8lMPfzu4CaDU3ug"
     }
   }
 }
