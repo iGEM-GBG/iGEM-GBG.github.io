@@ -1,0 +1,4 @@
+ALUMNI NAME: Cecilia Trivellin
+ALUMNI IMAGE: cecilia.jpg
+ALUMNI YEAR: 2018
+ALUMNI STORY: Hi, I’m Cecilia Trivellin, currently a postdoctoral researcher supported by a VR grant at the University of Gothenburg and Harvard University. My research explores the physiological limits of yeast through genomics and evolution. iGEM was an incredible experience for me! It taught me how to approach synthetic biology, collaborate effectively, communicate science, and integrate multiple disciplines into a single cohesive project. I enjoyed it so much that I went on to supervise students embarking on the same journey! It’s truly rewarding to build lasting connections, with your teammates and the global synthetic biology community, and that, to me, is what iGEM is all about.

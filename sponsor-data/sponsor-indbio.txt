@@ -1,0 +1,4 @@
+SPONSOR NAME: Department of Industrial Biotechnology
+SPONSOR IMAGE: sponsor-indbio.jpg
+SPONSOR DESCRIPTION: Gratiously supplying us with equipment and workspace.
+

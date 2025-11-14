@@ -1,0 +1,8 @@
+BOARD MEMBER NAME: Matilda Öjmertz
+BOARD MEMBER TITLE: Board Advisor
+BOARD MEMBER IMAGE: matilda.jpg
+BOARD MEMBER IMAGE OFFSET: custom:-20px
+BOARD MEMBER IMAGE ZOOM: custom:1
+BOARD MEMBER YEAR JOINED: 2022
+BOARD MEMBER PREVIOUS TEAM: 2022
+BOARD MEMBER BIO: Matilda serves as a board advisor, providing guidance and expertise to help the association effectively support future iGEM teams.

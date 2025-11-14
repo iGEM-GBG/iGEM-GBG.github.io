@@ -1,0 +1,7 @@
+TEAM YEAR: 2016
+TEAM NAME: 2016 Team
+PROJECT TITLE: Bioreactor Contamination Detection
+PROJECT DESCRIPTION: The team aimed to create a self-sustaining microbial co-culture where a photosynthetic cyanobacterium provides carbon substrates to a production organism, facilitating the conversion of sunlight and carbon dioxide into valuable chemical products.
+TEAM IMAGE: 2016.jpg
+TEAM WIKI URL: https://2016.igem.wiki/chalmers-gothenburg/
+

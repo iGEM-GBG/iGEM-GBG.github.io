@@ -1,0 +1,4 @@
+BOARD MEMBER NAME: William Lager
+BOARD MEMBER TITLE: Board Member
+BOARD MEMBER IMAGE: william.jpg
+BOARD MEMBER BIO: William serves as a board member, helping to facilitate support for future iGEM teams and sharing his experience with new members.

@@ -1,0 +1,19 @@
+{
+  "team_year": "2025",
+  "team_name": "2025 Team",
+  "project_title": "Sustainable Protein Production",
+  "project_description": "Developed a synthetic biology solution for sustainable protein production using engineered microorganisms. The project focused on creating alternative protein sources to address global food security challenges.",
+  "team_image": "team-2025.jpg",
+  "team_wiki_url": "https://2025.igem.wiki/chalmers-gothenburg/",
+  "team_members": [
+    "Student 1",
+    "Student 2", 
+    "Student 3"
+  ],
+  "project_category": "Food & Nutrition",
+  "awards": [
+    "Gold Medal",
+    "Best Food & Nutrition Project"
+  ],
+  "status": "completed"
+}

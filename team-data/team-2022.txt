@@ -1,0 +1,7 @@
+TEAM YEAR: 2022
+TEAM NAME: 2022 Team
+PROJECT TITLE: Sustainable Fatty Acid Production
+PROJECT DESCRIPTION: The team aimed to develop a point-of-care test for schistosomiasis by designing systems that produce visual indicators upon detecting the parasite's DNA, facilitating rapid and accurate diagnosis.
+TEAM IMAGE: 2022.jpg
+TEAM WIKI URL: https://2022.igem.wiki/chalmers-gothenburg/
+

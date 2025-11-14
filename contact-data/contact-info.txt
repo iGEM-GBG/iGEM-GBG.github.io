@@ -1,0 +1,38 @@
+CONTACT INFORMATION TEMPLATE
+==============================
+
+This file contains all contact information used across the website.
+Update this file to change contact details on all pages.
+
+ASSOCIATION EMAIL: associationigem@gmail.com
+CURRENT TEAM EMAIL: igemgothenburg@gmail.com
+LEGAL EMAIL: associationigem@gmail.com
+
+SOCIAL MEDIA LINKS:
+INSTAGRAM: https://instagram.com/igemgothenburg
+FACEBOOK: https://facebook.com/igemgothenburg
+LINKEDIN: https://linkedin.com/company/igem-gothenburg
+
+FORMS:
+TEAM SIGNUP FORM: https://forms.gle/team-signup-form
+ASSOCIATION MEMBER FORM: https://forms.gle/association-member-form
+
+LEGAL INFORMATION:
+ORG NUMBER: 802541-3876
+ORG NAME: IGEM CHALMERS-GOTHENBURG ASSOCIATION
+ADDRESS: c/o BIOLOGY AND BIOLOGICAL ENGINEERING, Kemivägen 10, 412 96 Gothenburg
+DOMAIN: igem-cga.com
+LEGAL FORM: Non-profit association
+LEGAL DOMICILE: Göteborg, Västra Götalands län
+ASSOCIATION FOUNDED: 2022-11-18
+
+INSTRUCTIONS:
+1. Update the values above as needed
+2. Run the contact update script to apply changes to all pages
+3. All pages will automatically use the updated contact information
+
+EXAMPLE USAGE:
+- Association email appears in footer of all pages
+- Current team email appears on contact page
+- Legal information appears in contact page dropdown
+- Social media links appear on contact page

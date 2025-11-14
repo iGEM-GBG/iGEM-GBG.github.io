@@ -1,0 +1,6 @@
+TEAM YEAR: 2024
+TEAM NAME: 2024 Team
+PROJECT TITLE: SoDoVi - Vitamin-Enriched Sourdough
+PROJECT DESCRIPTION: The team developed plasmid-based systems using CRISPR/Cas9, CRISPR/Cas13, and sRNA to silence antibiotic resistance genes and combat antimicrobial resistance (AMR).
+TEAM IMAGE: 2024.jpg
+TEAM WIKI URL: https://2024.igem.wiki/chalmers-gothenburg/

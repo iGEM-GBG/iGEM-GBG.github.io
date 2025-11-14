@@ -1,0 +1,7 @@
+TEAM YEAR: 2018
+TEAM NAME: 2018 Team
+PROJECT TITLE: BREATHtaking - Lung Cancer Detection
+PROJECT DESCRIPTION: TThe team engineered Saccharomyces boulardii to bind to cancer cells, produce ultrasound-detectable gas vesicles for imaging, and synthesize therapeutic agents upon detection. 
+TEAM IMAGE: 2018.jpg
+TEAM WIKI URL: https://2018.igem.wiki/chalmers-gothenburg/
+

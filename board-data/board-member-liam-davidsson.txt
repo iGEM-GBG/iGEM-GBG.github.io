@@ -1,0 +1,8 @@
+BOARD MEMBER NAME: Liam Davidsson
+BOARD MEMBER TITLE: Board Advisor
+BOARD MEMBER IMAGE: liam.jpg
+BOARD MEMBER IMAGE OFFSET: custom:-10%
+BOARD MEMBER IMAGE ZOOM: custom:1.3
+BOARD MEMBER YEAR JOINED: 2023
+BOARD MEMBER PREVIOUS TEAM: 2023
+BOARD MEMBER BIO: Liam serves as an advisor to the board as well as the webmaster/IT guru for many of the systems that makes the organization tick.

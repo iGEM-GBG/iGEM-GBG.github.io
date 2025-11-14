@@ -1,0 +1,6 @@
+TEAM YEAR: 2025
+TEAM NAME: 2025 Team
+PROJECT TITLE: Antimicrobial Resistance Combat
+PROJECT DESCRIPTION: Text Here Please
+TEAM IMAGE: 2025.jpg
+TEAM WIKI URL: https://2025.igem.wiki/chalmers-gothenburg/

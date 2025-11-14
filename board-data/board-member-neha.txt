@@ -1,0 +1,8 @@
+BOARD MEMBER NAME: Neha Kanduri
+BOARD MEMBER TITLE: Board Member
+BOARD MEMBER IMAGE: neha.jpg
+BOARD MEMBER IMAGE OFFSET: custom:-20px
+BOARD MEMBER IMAGE ZOOM: custom:1.1
+BOARD MEMBER BIO: Neha serves as a board member, contributing to the association's mission of supporting iGEM teams and providing mentorship opportunities.
+BOARD MEMBER YEAR JOINED: 2025
+BOARD MEMBER PREVIOUS TEAM: 2024

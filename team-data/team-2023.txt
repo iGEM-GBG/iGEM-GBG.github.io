@@ -1,0 +1,6 @@
+TEAM YEAR: 2023
+TEAM NAME: 2023 Team
+PROJECT TITLE: Schistosomiasis Point-of-Care Test
+PROJECT DESCRIPTION: The team developed "SoDoVi," a modified sourdough starter designed to produce vitamins A and B12 during bread fermentation, aiming to address dietary deficiencies without relying on animal products or synthetic supplements.
+TEAM IMAGE: 2023.jpg
+TEAM WIKI URL: https://2023.igem.wiki/chalmers-gothenburg/

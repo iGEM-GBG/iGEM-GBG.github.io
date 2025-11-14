@@ -1,0 +1,7 @@
+TEAM YEAR: 2021
+TEAM NAME: 2021 Team
+PROJECT TITLE: Textile Waste Degradation
+PROJECT DESCRIPTION: This project involved engineering cells to produce fatty acids sustainably, offering an alternative to palm oil extraction and contributing to reduced deforestation.
+TEAM IMAGE: 2021.jpg
+TEAM WIKI URL: https://2021.igem.wiki/chalmers-gothenburg/
+

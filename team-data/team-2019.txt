@@ -1,0 +1,7 @@
+TEAM YEAR: 2019
+TEAM NAME: 2019 Team
+PROJECT TITLE: Cancer Cell Imaging and Therapy
+PROJECT DESCRIPTION: The project focused on bioremediation by engineering yeast to degrade polychlorinated biphenyls (PCBs), persistent environmental pollutants, using bacterial genes.
+TEAM IMAGE: 2019.jpg
+TEAM WIKI URL: https://2019.igem.wiki/chalmers-gothenburg/
+

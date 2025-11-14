@@ -1,0 +1,4 @@
+BOARD MEMBER NAME: Christer Edvardsson
+BOARD MEMBER TITLE: Board Advisor
+BOARD MEMBER IMAGE: christer.jpg
+BOARD MEMBER BIO: Christer serves as a board member, contributing to the association's mission of supporting iGEM teams and providing mentorship to new members.

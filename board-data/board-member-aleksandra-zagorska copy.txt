@@ -1,0 +1,8 @@
+BOARD MEMBER NAME: Aleksandra Zagorska
+BOARD MEMBER TITLE: Chairman
+BOARD MEMBER IMAGE: aleksandra.jpg
+BOARD MEMBER IMAGE OFFSET: custom:14%
+BOARD MEMBER IMAGE ZOOM: custom:1
+BOARD MEMBER YEAR JOINED: 2024
+BOARD MEMBER PREVIOUS TEAM: 2023
+BOARD MEMBER BIO: Aleksandra serves as the Chairman of the iGEM Chalmers Gothenburg Association, leading the board in supporting future iGEM teams at Chalmers University of Technology and the University of Gothenburg.

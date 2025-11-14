@@ -1,0 +1,3 @@
+SPONSOR NAME: Chalmers University of Technology
+SPONSOR IMAGE: sponsor-chalmers.jpg
+SPONSOR DESCRIPTION: Our home university.

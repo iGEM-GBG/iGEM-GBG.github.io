@@ -1,0 +1,7 @@
+TEAM YEAR: 2014
+TEAM NAME: 2014 Team
+PROJECT TITLE: Inaugural iGEM Project
+PROJECT DESCRIPTION: The team created a system in Saccharomyces cerevisiae that expresses different fluorescent proteins based on the number of cell divisions, facilitating automated tracking of cell generations.
+TEAM IMAGE: 2014.jpg
+TEAM WIKI URL: https://2014.igem.wiki/chalmers-gothenburg/
+

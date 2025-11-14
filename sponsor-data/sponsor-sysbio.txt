@@ -1,0 +1,4 @@
+SPONSOR NAME: Department of Systems Biology
+SPONSOR IMAGE: sponsor-sysbio.jpg
+SPONSOR DESCRIPTION: Our home institution providing academic support and resources.
+
