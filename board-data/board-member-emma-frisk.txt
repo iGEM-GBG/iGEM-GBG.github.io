@@ -3,4 +3,6 @@ BOARD MEMBER TITLE: Treasurer
 BOARD MEMBER IMAGE: emma.jpg
 BOARD MEMBER IMAGE OFFSET: custom:-60px
 BOARD MEMBER IMAGE ZOOM: custom:1.3
+BOARD MEMBER YEAR JOINED: 2024
+BOARD MEMBER PREVIOUS TEAM: 2023
 BOARD MEMBER BIO: Emma manages the association's finances as Treasurer, focusing on building a strong financial foundation through sponsorship opportunities to support dedicated young scientists entering iGEM.

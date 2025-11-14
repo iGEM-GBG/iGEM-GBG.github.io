@@ -3,4 +3,6 @@ BOARD MEMBER TITLE: Board Member
 BOARD MEMBER IMAGE: hedda.jpg
 BOARD MEMBER IMAGE OFFSET: custom:-30px
 BOARD MEMBER IMAGE ZOOM: custom:1.1
+BOARD MEMBER YEAR JOINED: 2025
+BOARD MEMBER PREVIOUS TEAM: 2025
 BOARD MEMBER BIO: Hedda serves as a board member while also being a part of the current team. Apart from regular board duties she also fills the critical role as a link between the team and the association.

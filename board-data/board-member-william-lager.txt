@@ -1,4 +1,6 @@
 BOARD MEMBER NAME: William Lager
 BOARD MEMBER TITLE: Board Member
 BOARD MEMBER IMAGE: william.jpg
+BOARD MEMBER YEAR JOINED: 2024
+BOARD MEMBER PREVIOUS TEAM: 2024
 BOARD MEMBER BIO: William serves as a board member, helping to facilitate support for future iGEM teams and sharing his experience with new members.

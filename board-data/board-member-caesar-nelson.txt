@@ -1,4 +1,6 @@
 BOARD MEMBER NAME: Caesar Nelson
 BOARD MEMBER TITLE: Board Member
 BOARD MEMBER IMAGE: caesar.jpg
+BOARD MEMBER YEAR JOINED: 2024
+BOARD MEMBER PREVIOUS TEAM: 2024
 BOARD MEMBER BIO: Caesar serves as a board member, contributing to the association's efforts in supporting iGEM teams and providing guidance to new members.
