@@ -3,5 +3,5 @@ TEAM NAME: 2017 Team
 PROJECT TITLE: Self-Sustaining Microbial Co-Culture
 PROJECT DESCRIPTION: The team developed "BREATHtaking," a yeast-based biosensor designed to detect lung cancer by analyzing exhaled air for specific volatile organic compounds (VOCs).
 TEAM IMAGE: 2017.jpg
-TEAM WIKI URL: https://2017.igem.wiki/chalmers-gothenburg/
+TEAM WIKI URL: https://2017.igem.org/Team:Chalmers-Gothenburg
 

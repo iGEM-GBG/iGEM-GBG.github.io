@@ -3,5 +3,5 @@ TEAM NAME: 2015 Team
 PROJECT TITLE: Cell Division Tracking System
 PROJECT DESCRIPTION: The project focused on developing a novel strategy to detect and combat contaminations in continuous bioreactors using Saccharomyces cerevisiae as the production organism.
 TEAM IMAGE: 2015.jpg
-TEAM WIKI URL: https://2015.igem.wiki/chalmers-gothenburg/
+TEAM WIKI URL: https://2015.igem.org/Team:Chalmers-Gothenburg
 

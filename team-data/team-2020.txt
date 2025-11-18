@@ -3,5 +3,5 @@ TEAM NAME: 2020 Team
 PROJECT TITLE: PCB Bioremediation
 PROJECT DESCRIPTION: Addressing textile waste, the team engineered E. coli to express enzymes capable of degrading elastane fibers, enhancing the recyclability of blended fabrics.
 TEAM IMAGE: 2020.jpg
-TEAM WIKI URL: https://2020.igem.wiki/chalmers-gothenburg/
+TEAM WIKI URL: https://2020.igem.org/Team:Chalmers-Gothenburg
 
