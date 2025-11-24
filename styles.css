@@ -508,6 +508,13 @@ body {
     opacity: 0.9;
 }
 
+.team-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
 .team-link {
     display: inline-block;
     background-color: #1d422b;
@@ -517,7 +524,6 @@ body {
     text-decoration: none;
     font-size: 0.9rem;
     font-weight: 500;
-    margin-top: 1rem;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 

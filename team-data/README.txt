@@ -15,6 +15,7 @@ OPTIONAL FIELDS (can be omitted if not applicable):
 TEAM MEMBERS: Student 1, Student 2, Student 3
 PROJECT CATEGORY: Food & Nutrition
 AWARDS: Gold Medal, Best Food & Nutrition Project
+VIDEO URL: https://www.youtube.com/watch?v=example
 
 INSTRUCTIONS:
 1. Copy this template for each team
@@ -33,6 +34,7 @@ TEAM WIKI URL: https://2024.igem.wiki/chalmers-gothenburg/
 TEAM MEMBERS: Alice Johnson, Bob Smith, Carol Davis
 PROJECT CATEGORY: Environment
 AWARDS: Silver Medal
+VIDEO URL: https://www.youtube.com/watch?v=example
 
 EXAMPLE WITH MINIMAL FIELDS (only required):
 TEAM YEAR: 2023

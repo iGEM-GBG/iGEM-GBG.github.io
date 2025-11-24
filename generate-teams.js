@@ -8,6 +8,20 @@ const TEAM_DATA_DIR = './team-data';
 const OUTPUT_FILE = './our-previous-teams.html';
 const IMAGES_DIR = './images';
 
+// Function to normalize URLs - add https:// if protocol is missing
+function normalizeUrl(url) {
+    if (!url || url.trim() === '') {
+        return url;
+    }
+    const trimmedUrl = url.trim();
+    // Check if URL already has a protocol
+    if (trimmedUrl.startsWith('http://') || trimmedUrl.startsWith('https://')) {
+        return trimmedUrl;
+    }
+    // Add https:// if protocol is missing
+    return 'https://' + trimmedUrl;
+}
+
 // Function to parse team data from text file
 function parseTeamData(filename) {
     const content = fs.readFileSync(filename, 'utf8');
@@ -34,12 +48,13 @@ function generateTeamCard(teamData) {
     const title = teamData.project_title || 'Project Title';
     const description = teamData.project_description || 'Project description not available.';
     const image = teamData.team_image || 'team-placeholder.jpg';
-    const wikiUrl = teamData.team_wiki_url || '#';
+    const wikiUrl = normalizeUrl(teamData.team_wiki_url || '#');
     
     // Optional fields - only include if they exist and have content
     const members = teamData.team_members;
     const category = teamData.project_category;
     const awards = teamData.awards;
+    const videoUrl = teamData.video_url ? normalizeUrl(teamData.video_url) : null;
     
     // Build the content section with always-visible description
     let contentSection = `
@@ -73,8 +88,19 @@ function generateTeamCard(teamData) {
                                 </div>`;
     }
     
+    // Build button section - always show wiki button, conditionally show video button
     contentSection += `
-                                <a href="${wikiUrl}" target="_blank" class="team-link">Visit ${year} Team Wiki</a>`;
+                                <div class="team-buttons">`;
+    contentSection += `
+                                    <a href="${wikiUrl}" target="_blank" class="team-link">Visit Team Wiki</a>`;
+    
+    if (videoUrl) {
+        contentSection += `
+                                    <a href="${videoUrl}" target="_blank" class="team-link">Watch Intro Vid</a>`;
+    }
+    
+    contentSection += `
+                                </div>`;
     
     return `
                         <div class="team-card">

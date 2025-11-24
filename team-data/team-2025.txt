@@ -1,6 +1,7 @@
 TEAM YEAR: 2025
 TEAM NAME: 2025 Team
 PROJECT TITLE: Antimicrobial Resistance Combat
-PROJECT DESCRIPTION: The team developed “Live Adhesion Tool for Candida Hunting,” engineering beneficial bacteria to competitively block and combat Candida albicans infections as a safer alternative to current antifungal treatments.
+PROJECT DESCRIPTION: The team developed "Live Adhesion Tool for Candida Hunting," engineering beneficial bacteria to competitively block and combat Candida albicans infections as a safer alternative to current antifungal treatments.
 TEAM IMAGE: 2025.jpg
 TEAM WIKI URL: https://2025.igem.wiki/chalmers-gothenburg/
+VIDEO URL: https://video.igem.org/w/7cv7L1xqFJJ7SAfWyfvnx6

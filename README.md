@@ -16,7 +16,7 @@ This is a clean, maintainable website for the iGEM Chalmers Gothenburg Associati
 
 ### File Structure
 ```
-clean/
+./
 ├── index.html              # Homepage
 ├── about-igem.html         # About iGEM page
 ├── the-association.html    # Association information (auto-generated)
