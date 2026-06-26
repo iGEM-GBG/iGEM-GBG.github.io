@@ -205,6 +205,9 @@ function generateAssociationPage(boardData) {
                             <a href="about-igem.html" class="nav-link">About iGEM</a>
                         </li>
                         <li class="nav-item">
+                            <a href="why-do-igem.html" class="nav-link">Why iGEM?</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="the-association.html" class="nav-link active">The Association</a>
                         </li>
                         <li class="nav-item">

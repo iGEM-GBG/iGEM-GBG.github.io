@@ -913,6 +913,27 @@ body {
     font-size: 0.95rem;
 }
 
+.highlight-quote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    border-left: 4px solid #1d422b;
+    background-color: #f8f9fa;
+    font-family: 'Lato', Arial, sans-serif;
+    font-size: 1.25rem;
+    font-style: italic;
+    color: #1d422b;
+    line-height: 1.6;
+}
+
+.highlight-quote-sub {
+    display: block;
+    margin-top: 0.75rem;
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 700;
+    color: #333;
+}
+
 @media (max-width: 768px) {
     .team-roles-section {
         grid-template-columns: 1fr;
